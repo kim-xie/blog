@@ -5,7 +5,7 @@
       <div class="resumeLeft">
         <div class="leftItem">
           <div class="itemTitle">
-            <img class="itemIcon" src="../public/img/drxx14.svg" alt="">
+            <img class="itemIcon" src="../public/img/drxx14.svg" alt="" />
             个人技能
           </div>
           <div class="itemContent">
@@ -31,7 +31,7 @@
         </div>
         <div class="leftItem">
           <div class="itemTitle">
-            <img class="itemIcon" src="../public/img/pingjia.svg" alt="">
+            <img class="itemIcon" src="../public/img/pingjia.svg" alt="" />
             自我评价
           </div>
           <div class="itemContent">
@@ -48,7 +48,7 @@
         </div>
         <div class="leftItem">
           <div class="itemTitle">
-            <img class="itemIcon" src="../public/img/drxx20.svg" alt="">
+            <img class="itemIcon" src="../public/img/drxx20.svg" alt="" />
             工作经历
           </div>
           <div class="itemContent">
@@ -58,7 +58,9 @@
             </p>
             <p class="teachItem">
               <span class="itemLabel">所属部门：</span>
-              <span class="itemValue">智慧交通及社区事业部畅通管理部产品支持团队</span>
+              <span class="itemValue"
+                >智慧交通及社区事业部畅通管理部产品支持团队</span
+              >
             </p>
             <p class="teachItem">
               <span class="itemLabel">所属职位：</span>
@@ -87,7 +89,7 @@
               </div>
             </div>
           </div>
-          <hr>
+          <hr />
           <div class="itemContent">
             <p class="teachItem">
               <span class="itemLabel">公司名称：</span>
@@ -124,7 +126,7 @@
               </div>
             </div>
           </div>
-          <hr>
+          <hr />
           <div class="itemContent">
             <p class="teachItem">
               <span class="itemLabel">公司名称：</span>
@@ -150,7 +152,8 @@
               <div class="descLabel">工作描述：</div>
               <div class="itemValue">
                 <p class="descValue">
-                  1、负责公司产品的定制化开发，主要是偏向java web方向（前后端交互方面）
+                  1、负责公司产品的定制化开发，主要是偏向java
+                  web方向（前后端交互方面）
                 </p>
                 <p class="descValue">
                   2、负责前端页面的重构，提升界面的用户体验。开发涉及页面的响应式、浏览器的兼容性及性能调优方面
@@ -164,7 +167,11 @@
         </div>
         <div class="leftItem">
           <div class="itemTitle">
-            <img class="itemIcon" src="../public/img/_xiangmujingyan.svg" alt="">
+            <img
+              class="itemIcon"
+              src="../public/img/_xiangmujingyan.svg"
+              alt=""
+            />
             项目经验
           </div>
           <div class="itemContent">
@@ -202,7 +209,7 @@
             </p>
           </div>
 
-          <hr>
+          <hr />
           <div class="itemContent">
             <p class="teachItem">
               <span class="itemLabel">项目名称：</span>
@@ -228,9 +235,7 @@
                 <p class="descValue">
                   3、开发团队内部使用的数据录入配置工具，提升团队工作效率
                 </p>
-                <p class="descValue">
-                  4、为产品上线与维护提供技术支持
-                </p>
+                <p class="descValue">4、为产品上线与维护提供技术支持</p>
               </div>
             </div>
             <p class="teachItem">
@@ -241,7 +246,7 @@
             </p>
           </div>
 
-          <hr>
+          <hr />
           <div class="itemContent">
             <p class="teachItem">
               <span class="itemLabel">项目名称：</span>
@@ -264,9 +269,7 @@
                 <p class="descValue">
                   2、使用原生的微信小程序开发框架，熟悉其开发结构和模式
                 </p>
-                <p class="descValue">
-                  3、掌握小程序开发构建部署完整的流程
-                </p>
+                <p class="descValue">3、掌握小程序开发构建部署完整的流程</p>
               </div>
             </div>
             <p class="teachItem">
@@ -277,7 +280,7 @@
             </p>
           </div>
 
-          <hr>
+          <hr />
           <div class="itemContent">
             <p class="teachItem">
               <span class="itemLabel">项目名称：</span>
@@ -312,7 +315,7 @@
             </div>
           </div>
 
-          <hr>
+          <hr />
           <div class="itemContent">
             <p class="teachItem">
               <span class="itemLabel">项目名称：</span>
@@ -344,22 +347,18 @@
               </span>
             </p>
           </div>
-
         </div>
-        
       </div>
       <div class="resumeRight">
         <div class="rightItem rightItem1">
           <div class="avatar">
-            <img class="avatarImg" src="../public/img/avator.png" alt="">
+            <img class="avatarImg" src="../public/img/avator.png" alt="" />
           </div>
-          <div class="itemName">
-            谢顶金
-          </div>
+          <div class="itemName">谢顶金</div>
         </div>
         <div class="rightItem">
           <div class="itemTitle">
-            <img class="itemIcon" src="../public/img/gerxinxi.svg" alt="">
+            <img class="itemIcon" src="../public/img/gerxinxi.svg" alt="" />
             基本信息
           </div>
           <div class="itemContent">
@@ -383,7 +382,7 @@
               <span class="itemLabel">电话：</span>
               <span class="itemValue">18576648902</span>
             </div>
-             <div class="itemWrap">
+            <div class="itemWrap">
               <span class="itemLabel">邮箱：</span>
               <span class="itemValue">18576648902@163.com</span>
             </div>
@@ -395,7 +394,11 @@
         </div>
         <div class="rightItem">
           <div class="itemTitle">
-            <img class="itemIcon" src="../public/img/jiaoyubeijing.svg" alt="">
+            <img
+              class="itemIcon"
+              src="../public/img/jiaoyubeijing.svg"
+              alt=""
+            />
             教育背景
           </div>
           <div class="itemContent">
@@ -423,7 +426,11 @@
         </div>
         <div class="rightItem">
           <div class="itemTitle">
-            <img class="itemIcon" src="../public/img/qiuzhiyixiang.svg" alt="">
+            <img
+              class="itemIcon"
+              src="../public/img/qiuzhiyixiang.svg"
+              alt=""
+            />
             求职意向
           </div>
           <div class="itemContent">
@@ -447,7 +454,7 @@
         </div>
         <div class="rightItem">
           <div class="itemTitle">
-            <img class="itemIcon" src="../public/img/xingquaihao.svg" alt="">
+            <img class="itemIcon" src="../public/img/xingquaihao.svg" alt="" />
             兴趣爱好
           </div>
           <div class="itemContent">
@@ -465,145 +472,143 @@
 </template>
 
 <script>
-export default {
-  
-}
+export default {};
 </script>
 <style lang="less" scoped>
-  hr{
-    margin-top: 20px;
-  }
-  .resumeWrap{
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 1024px;
-    height: 100%;
-    margin: 0 auto;
-    background-color: #eeeeee;
-  }
-  .resumeTitle{
-    width: 100%;
-    height: 60px;
-    line-height: 60px;
-    font-family: PingFang SC;
-    font-weight: 600;
-    font-size: 24px;
-    color: #393e46;
-    text-align: center;
-  }
-  .resumeContent{
-    flex: 1;
-    width: 100%;
-    overflow: hidden;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-  }
-  .resumeLeft{
-    flex: 1;
-    margin: 16px 0 16px 16px;
-  }
-  .resumeRight{
-    width: 220px;
-    margin: 16px;
-  }
-  .leftItem{
-    padding: 16px;
-    margin-bottom: 16px;
-    border-radius: 6px;
-    background-color: #f6f6f6;
-  }
-  .rightItem{
-    padding: 16px;
-    margin-bottom: 16px;
-    border-radius: 6px;
-    background-color: #f6f6f6;
-  }
-  .rightItem1{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  .avatar{
-    overflow: hidden;
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-  }
-  .avatarImg{
-    width: 100%;
-    height: 100%;
-  }
-  .itemName{
-    font-size: 16px;
-    color: #333;
-    font-weight: 600;
-    vertical-align: middle;
-    margin-top: 8px;
-  }
-  .itemTitle{
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    color: #333;
-    font-weight: 600;
-  }
-  .itemIcon{
-    width: 18px;
-    height: 18px;
-    margin-right: 4px;
-  }
-  .itemContent{
-    padding-top: 8px;
-  }
-  .itemWrap{
-    padding-top: 6px;
-    font-size: 12px;
-  }
-  .itemLabel{
-    color: #1e2022;
-    font-weight: 600;
-  }
-  .itemValue{
-    flex: 1;
-    color: #52616b;
-  }
-  .teachItem{
-    margin: 0;
-    padding-top: 6px;
-    font-size: 12px;
-    color: #222831;
-  }
-  .descItem{
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    margin: 0;
-    padding-top: 6px;
-    font-size: 12px;
-    color: #222831;
-  }
-  .descLabel{
-    color: #1e2022;
-    font-weight: 600;
-  }
-  .descValue{
-    flex: 1;
-    margin-top: 0;
-    margin-bottom: 4px;
-    color: #52616b;
-  }
-  .favoItem{
-    display: inline-block;
-    font-size: 12px;
-    padding: 4px 8px;
-    background: #ebecf1;
-    border-radius: 16px;
-    margin: 6px 6px 6px 0;
-    color: #222831;
-  }
+hr {
+  margin-top: 20px;
+}
+.resumeWrap {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1024px;
+  height: 100%;
+  margin: 0 auto;
+  background-color: #eeeeee;
+}
+.resumeTitle {
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  font-family: PingFang SC;
+  font-weight: 600;
+  font-size: 24px;
+  color: #393e46;
+  text-align: center;
+}
+.resumeContent {
+  flex: 1;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.resumeLeft {
+  flex: 1;
+  margin: 16px 0 16px 16px;
+}
+.resumeRight {
+  width: 220px;
+  margin: 16px;
+}
+.leftItem {
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 6px;
+  background-color: #f6f6f6;
+}
+.rightItem {
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 6px;
+  background-color: #f6f6f6;
+}
+.rightItem1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.avatar {
+  overflow: hidden;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+.avatarImg {
+  width: 100%;
+  height: 100%;
+}
+.itemName {
+  font-size: 16px;
+  color: #333;
+  font-weight: 600;
+  vertical-align: middle;
+  margin-top: 8px;
+}
+.itemTitle {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  color: #333;
+  font-weight: 600;
+}
+.itemIcon {
+  width: 18px;
+  height: 18px;
+  margin-right: 4px;
+}
+.itemContent {
+  padding-top: 8px;
+}
+.itemWrap {
+  padding-top: 6px;
+  font-size: 12px;
+}
+.itemLabel {
+  color: #1e2022;
+  font-weight: 600;
+}
+.itemValue {
+  flex: 1;
+  color: #52616b;
+}
+.teachItem {
+  margin: 0;
+  padding-top: 6px;
+  font-size: 12px;
+  color: #222831;
+}
+.descItem {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0;
+  padding-top: 6px;
+  font-size: 12px;
+  color: #222831;
+}
+.descLabel {
+  color: #1e2022;
+  font-weight: 600;
+}
+.descValue {
+  flex: 1;
+  margin-top: 0;
+  margin-bottom: 4px;
+  color: #52616b;
+}
+.favoItem {
+  display: inline-block;
+  font-size: 12px;
+  padding: 4px 8px;
+  background: #ebecf1;
+  border-radius: 16px;
+  margin: 6px 6px 6px 0;
+  color: #222831;
+}
 </style>

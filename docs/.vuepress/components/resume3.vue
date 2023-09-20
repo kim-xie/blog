@@ -30,42 +30,139 @@
                   />
                   基本信息
                 </div>
-                <div class="itemContent userInfo">
-                  <div class="row">
-                    <div class="itemWrap lineHeight">
-                      <span class="itemLabel">姓名：</span>
-                      <span class="itemValue">谢顶金</span>
-                    </div>
-                    <div class="itemWrap lineHeight">
-                      <span class="itemLabel">性别：</span>
-                      <span class="itemValue">男</span>
-                    </div>
-                    <div class="itemWrap lineHeight">
-                      <span class="itemLabel">电话：</span>
-                      <span class="itemValue">18576648902</span>
-                    </div>
-                    <div class="itemWrap lineHeight">
-                      <span class="itemLabel">邮箱：</span>
-                      <span class="itemValue">18576648902@163.com</span>
-                    </div>
+                <div class="itemContent">
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel"
+                      >姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：</span
+                    >
+                    <span class="itemValue">谢顶金</span>
                   </div>
-                  <div class="row">
-                    <div class="itemWrap lineHeight">
-                      <span class="itemLabel">学历：</span>
-                      <span class="itemValue">本科</span>
-                    </div>
-                    <div class="itemWrap lineHeight">
-                      <span class="itemLabel">工作：</span>
-                      <span class="itemValue">7年</span>
-                    </div>
-                    <div class="itemWrap lineHeight">
-                      <span class="itemLabel">住址：</span>
-                      <span class="itemValue">宝安区新安街道</span>
-                    </div>
-                    <div class="itemWrap lineHeight">
-                      <span class="itemLabel">职位：</span>
-                      <span class="itemValue">高级前端开发工程师</span>
-                    </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel"
+                      >性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;别：</span
+                    >
+                    <span class="itemValue">男</span>
+                  </div>
+                  <!-- <div class="itemWrap lineHeight">
+                    <span class="itemLabel"
+                      >名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;族：</span
+                    >
+                    <span class="itemValue">仫佬族</span>
+                  </div> -->
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel"
+                      >工&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作：</span
+                    >
+                    <span class="itemValue">7年</span>
+                  </div>
+                  <!-- <div class="itemWrap">
+                  <span class="itemLabel">工作经验：</span>
+                  <span class="itemValue">4年</span>
+                </div> -->
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel"
+                      >电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：</span
+                    >
+                    <span class="itemValue">18576648902</span>
+                  </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel"
+                      >邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：</span
+                    >
+                    <span class="itemValue">18576648902@163.com</span>
+                  </div>
+                  <!-- <div class="itemWrap lineHeight">
+                    <span class="itemLabel"
+                      >住&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;址：</span
+                    >
+                    <span class="itemValue">深圳市宝安区</span>
+                  </div> -->
+                </div>
+              </div>
+            </div>
+
+            <div class="userInfoItem" style="margin: 0 16px">
+              <div class="rightItem">
+                <div class="itemTitle">
+                  <img
+                    class="itemIcon"
+                    src="../public/img/qiuzhiyixiang.svg"
+                    alt=""
+                  />
+                  求职意向
+                </div>
+                <div class="itemContent">
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">期望职位：</span>
+                    <span class="itemValue">高级前端开发工程师</span>
+                  </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">期望薪资：</span>
+                    <span class="itemValue">40k - 60k</span>
+                  </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">期望行业：</span>
+                    <span class="itemValue">互联网</span>
+                  </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">期望城市：</span>
+                    <span class="itemValue">深圳市</span>
+                  </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">期望地区：</span>
+                    <span class="itemValue">南山、前海、宝安</span>
+                  </div>
+                </div>
+              </div>
+              <!-- <div class="rightItem" style="margin-top: 10px">
+                <div class="itemTitle">
+                  <img
+                    class="itemIcon"
+                    src="../public/img/xingquaihao.svg"
+                    alt=""
+                  />
+                  兴趣爱好
+                </div>
+                <div class="itemContent">
+                  <span class="favoItem">篮球</span>
+                  <span class="favoItem">游泳</span>
+                  <span class="favoItem">爬山</span>
+                  <span class="favoItem">骑行</span>
+                  <span class="favoItem">羽毛球</span>
+                </div>
+              </div> -->
+            </div>
+
+            <div class="userInfoItem">
+              <div class="rightItem">
+                <div class="itemTitle">
+                  <img
+                    class="itemIcon"
+                    src="../public/img/jiaoyubeijing.svg"
+                    alt=""
+                  />
+                  教育背景
+                </div>
+                <div class="itemContent">
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">学校名称：</span>
+                    <span class="itemValue">桂林航天工业学院</span>
+                  </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">所学专业：</span>
+                    <span class="itemValue">汽车服务工程</span>
+                  </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">就读时间：</span>
+                    <span class="itemValue">2012 ~ 2016</span>
+                  </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">学历学位：</span>
+                    <span class="itemValue">本科（学士）</span>
+                  </div>
+                  <div class="itemWrap lineHeight">
+                    <span class="itemLabel">获得证书：</span>
+                    <span class="itemValue">英语四级、计算机二级</span>
                   </div>
                 </div>
               </div>
@@ -81,13 +178,13 @@
             <!-- 了解、熟悉、掌握、熟练、精通 -->
             <div class="itemContent">
               <p class="teachItem">
-                1、熟练掌握HTML、CSS、JS、ES6等编程基础，了解浏览器运行原理、缓存机制及网络基础
+                1、熟练掌握HTML/HTML5、CSS/CSS3、JS、ES6等编程基础，了解浏览器运行原理及网络基础
               </p>
               <p class="teachItem">
-                2、熟练掌握前端工程化打包工具Webpack、Vite的核心原理及配置优化
+                2、熟练掌握前端工程化打包工具Webpack、Vite、Babel的配置及优化，以及Git版本管理工具
               </p>
               <p class="teachItem">
-                3、熟练掌握React、Redux、Router、Vue核心原理及开发，熟悉H5、PC、小程序、大屏数据可视化等开发技术
+                3、熟练掌握React、Redux、Router、Vue及其核心原理，熟悉H5、PC、小程序、大屏数据可视化等开发技术
               </p>
               <p class="teachItem">
                 4、熟练运用D3、Antv、Echart、地图、动效库、canvas、svg等相关数据可视化技术
@@ -102,7 +199,7 @@
                 7、掌握前端性能优化、低代码、前端监控、微前端、SSR、工程架构等相关技术
               </p>
               <p class="teachItem">
-                8、了解docker、serverless生态，有过开发部署实践经验
+                8、掌握前端性能优化、低代码、前端监控、微前端、SSR、工程架构等相关技术
               </p>
             </div>
           </div>
@@ -121,6 +218,20 @@
                   <span class="itemLabel ml-12">高级前端开发工程师</span>
                 </p>
               </div>
+              <!-- <div class="oneline">
+                <p class="teachItem onelineItem">
+                  <span class="itemLabel">所属职位：</span>
+                  <span class="itemValue">高级前端开发工程师</span>
+                </p>
+                <p class="teachItem onelineItem">
+                  <span class="itemLabel">在职时间：</span>
+                  <span class="itemValue">2021/03 ~ 2023/05</span>
+                </p>
+              </div> -->
+              <!-- <p class="teachItem">
+                <span class="itemLabel">前端团队：</span>
+                <span class="itemValue">30人</span>
+              </p> -->
               <div class="descItem">
                 <div class="descLabel">工作描述：</div>
                 <div class="itemValue">
@@ -168,6 +279,47 @@
               </div>
             </div>
             <hr />
+            <!-- <div class="itemContent">
+              <div class="oneline">
+                <p class="teachItem onelineItem">
+                  <span class="itemLabel">公司名称：</span>
+                  <span class="itemValue">深圳市有品网络科技有限公司</span>
+                </p>
+                <p class="teachItem onelineItem">
+                  <span class="itemLabel">所属部门：</span>
+                  <span class="itemValue">产品研发部</span>
+                </p>
+              </div>
+              <div class="oneline">
+                <p class="teachItem onelineItem">
+                  <span class="itemLabel">所属职位：</span>
+                  <span class="itemValue">前端开发工程师</span>
+                </p>
+                <p class="teachItem onelineItem">
+                  <span class="itemLabel">在职时间：</span>
+                  <span class="itemValue">2018-08 ~ 2019-03</span>
+                </p>
+              </div>
+              <p class="teachItem">
+                <span class="itemLabel">前端团队：</span>
+                <span class="itemValue">1人</span>
+              </p> 
+              <div class="descItem">
+                <div class="descLabel">工作描述：</div>
+                <div class="itemValue">
+                  <p class="descValue">
+                    1、公司前端小组负责人，负责前端新人招聘，带新人及前端技术选型，框架搭建，代码实现，技术难点攻克
+                  </p>
+                  <p class="descValue">
+                    2、负责前端的日常开发及优化迭代，参与公司官网优化，国外导购平台重构，内部沟通系统开发及数字资产交易所迭代
+                  </p>
+                  <p class="descValue">
+                    3、负责与产品进行需求对接，与后台、测试沟通协作，合理排期开发任务，确保按时高质量完成交付
+                  </p>
+                </div>
+              </div>
+            </div>
+            <hr /> -->
             <div class="itemContent">
               <div class="oneline">
                 <p class="teachItem">
@@ -310,6 +462,52 @@
               </p>
             </div>
 
+            <!-- <hr />
+            <div class="itemContent">
+              <div class="oneline">
+                <p class="teachItem onelineItem">
+                  <span class="itemLabel">项目名称：</span>
+                  <span class="itemValue">backerLand国外导购平台</span>
+                </p>
+                <p class="teachItem onelineItem">
+                  <span class="itemLabel">担任角色：</span>
+                  <span class="itemValue">项目重构、新系统开发</span>
+                </p>
+              </div>
+              <p class="teachItem">
+                <span class="itemLabel">开发时间：</span>
+                <span class="itemValue">2018-09 ~ 2019-02</span>
+              </p>
+              <div class="descItem">
+                <div class="descLabel">项目简介：</div>
+                <div class="itemValue">
+                  backerLand是国外一个给众筹产品做推广预热的平台。B端客户通过平台购买服务，平台支持信用卡等支付方式，支付成功后，向平台上传产品资料。等管理员审核通过后，平台会基于c端用户等其他渠道来做推广引流。B端客户可通过平台查看项目的进度及推广情况，实现平台一体化服务
+                </div>
+              </div>
+              <div class="descItem">
+                <div class="descLabel">工作内容：</div>
+                <div class="itemValue">
+                  <p class="descValue">
+                    1、负责和国外团队进行需求收集对接，整理需求文档，制定开发计划，合理排期开发任务
+                  </p>
+                  <p class="descValue">
+                    2、负责项目的前端技术选型，框架设计及代码实现，与后端同事协作开发，负责项目的跟进、汇报
+                  </p>
+                  <p class="descValue">
+                    3、负责项目的前端开发，后台管理系统使用vue前后端分离技术，前台B端和C端使用boostrap响应式框架
+                  </p>
+                </div>
+              </div>
+              <div class="descItem">
+                <div class="descLabel">相关技术：</div>
+                <div class="itemValue">
+                  <p class="descValue">
+                    vue2.0、webpack、es6、jwt、elementui、bootstrap4、gulp、flyjs、easy_mock
+                  </p>
+                </div>
+              </div>
+            </div> -->
+
             <hr />
             <div class="itemContent">
               <div class="oneline">
@@ -341,7 +539,7 @@
               <p class="teachItem">
                 <span class="itemLabel">相关技术：</span>
                 <span class="itemValue">
-                  java、jsp、layerui、js、ajax、jquery、vue、webpack、es6、jwt、elementui、gulp、flyjs、easy_mock
+                  java、jsp、layerui、js、ajax、jquery、html、css、vue
                 </span>
               </p>
             </div>
@@ -465,7 +663,6 @@ export default {
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 0 24px;
 }
 .resumeTop {
   width: 100%;
@@ -500,37 +697,11 @@ export default {
   margin-top: 8px;
 }
 .userInfoWrap {
-  width: 100%;
   display: flex;
   justify-content: space-around;
   align-items: center;
   margin-top: 16px;
-}
-.userInfo {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  .row {
-    width: 100%;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-  }
-  .itemWrap {
-    padding-left: 24px;
-    &:nth-child(1) {
-      width: 140px;
-    }
-    &:nth-child(2) {
-      width: 120px;
-    }
-    &:nth-child(3) {
-      width: 200px;
-    }
-    .itemLabel {
-      font-weight: 500;
-    }
-  }
+  padding: 0 24px;
 }
 .itemTitle {
   display: flex;
@@ -547,7 +718,7 @@ export default {
 }
 
 .itemWrap {
-  font-size: 14px;
+  font-size: 12px;
 }
 .lineHeight {
   line-height: 26px;
@@ -562,21 +733,21 @@ export default {
 }
 
 .ml-12 {
-  margin-left: 14px;
+  margin-left: 12px;
 }
 
 .resumeMiddle {
   height: 100%;
   display: flex;
   flex-direction: column;
-  padding: 14px 0;
+  padding: 12px 24px;
   .itemContent {
     padding-left: 24px;
   }
 }
 .userInfoItem {
-  // height: 190px;
-  width: 100%;
+  height: 190px;
+  width: 260px;
   .rightItem {
     padding: 16px;
     border-radius: 6px;
@@ -594,7 +765,7 @@ export default {
 // }
 .leftItem {
   padding: 14px;
-  margin-bottom: 14px;
+  margin-bottom: 12px;
   border-radius: 6px;
   background-color: #f4f4f4;
 }
@@ -612,7 +783,7 @@ export default {
 .teachItem {
   margin: 0;
   padding-top: 6px;
-  font-size: 14px;
+  font-size: 12px;
   color: #222831;
 }
 .descItem {
@@ -621,7 +792,7 @@ export default {
   align-items: flex-start;
   margin: 0;
   padding-top: 6px;
-  font-size: 14px;
+  font-size: 12px;
   color: #222831;
 }
 .descLabel {
@@ -636,7 +807,7 @@ export default {
 }
 .favoItem {
   display: inline-block;
-  font-size: 14px;
+  font-size: 12px;
   padding: 4px 8px;
   background: #ebecf1;
   border-radius: 16px;
