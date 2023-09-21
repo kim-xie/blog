@@ -33,38 +33,38 @@
                 <div class="itemContent userInfo">
                   <div class="row">
                     <div class="itemWrap lineHeight">
-                      <span class="itemLabel">姓名：</span>
+                      <span class="itemLabel">姓 名：</span>
                       <span class="itemValue">谢顶金</span>
                     </div>
                     <div class="itemWrap lineHeight">
-                      <span class="itemLabel">性别：</span>
+                      <span class="itemLabel">性 别：</span>
                       <span class="itemValue">男</span>
                     </div>
                     <div class="itemWrap lineHeight">
-                      <span class="itemLabel">电话：</span>
+                      <span class="itemLabel">电 话：</span>
                       <span class="itemValue">18576648902</span>
                     </div>
                     <div class="itemWrap lineHeight">
-                      <span class="itemLabel">邮箱：</span>
+                      <span class="itemLabel">邮 箱：</span>
                       <span class="itemValue">18576648902@163.com</span>
                     </div>
                   </div>
                   <div class="row">
                     <div class="itemWrap lineHeight">
-                      <span class="itemLabel">学历：</span>
+                      <span class="itemLabel">学 历：</span>
                       <span class="itemValue">本科</span>
                     </div>
                     <div class="itemWrap lineHeight">
-                      <span class="itemLabel">工作：</span>
+                      <span class="itemLabel">工 作：</span>
                       <span class="itemValue">7年</span>
                     </div>
                     <div class="itemWrap lineHeight">
-                      <span class="itemLabel">住址：</span>
-                      <span class="itemValue">宝安区新安街道</span>
+                      <span class="itemLabel">住 址：</span>
+                      <span class="itemValue">深圳宝安</span>
                     </div>
                     <div class="itemWrap lineHeight">
-                      <span class="itemLabel">职位：</span>
-                      <span class="itemValue">高级前端开发工程师</span>
+                      <span class="itemLabel">状 态：</span>
+                      <span class="itemValue">离职</span>
                     </div>
                   </div>
                 </div>
@@ -81,7 +81,7 @@
             <!-- 了解、熟悉、掌握、熟练、精通 -->
             <div class="itemContent">
               <p class="teachItem">
-                1、熟练掌握HTML、CSS、JS、ES6等编程基础，了解浏览器运行原理、缓存机制及网络基础
+                1、熟练掌握HTML、CSS、JS、ES6等前端web技术，了解浏览器运行原理、缓存机制及网络基础
               </p>
               <p class="teachItem">
                 2、熟练掌握前端工程化打包工具Webpack、Vite的核心原理及配置优化
@@ -96,7 +96,7 @@
                 5、熟悉项目的搭建、开发、部署完整流程（ci/cd），熟悉nginx的基本配置及Linux日常使用命令
               </p>
               <p class="teachItem">
-                6、掌握NodeJs、TS、GraphQL、小程序跨端技术Taro、uni-app等开发方式
+                6、掌握NodeJs、TS、GraphQL、ElasticSearch，移动端跨端技术Taro、uni-app等开发方式
               </p>
               <p class="teachItem">
                 7、掌握前端性能优化、低代码、前端监控、微前端、SSR、工程架构等相关技术
@@ -125,16 +125,22 @@
                 <div class="descLabel">工作描述：</div>
                 <div class="itemValue">
                   <p class="descValue">
-                    1、主要负责用户运营活动的业务开发、新框架设计与搭建、低代码、前端基础建设等工作
+                    1、参与C端小游戏，用户运营活动，PC管理端，node端的业务开发升级迭代和日常维护
                   </p>
                   <p class="descValue">
-                    2、参与日活超千万的项目的前端性能优化工作，并取得不错的优化效果
+                    2、参与日活超千万的用户运营活动项目前端性能优化工作，并取得不错的优化效果
                   </p>
                   <p class="descValue">
-                    3、负责前端监控平台的架构与设计，解决开发过程中遇到的挑战
+                    3、主导企业微信运营活动、低代码平台、前端监控平台SDK的架构设计以及全链路开发
                   </p>
                   <p class="descValue">
-                    4、参与微前端、SSR等前端专项的开发任务
+                    4、负责C端项目的跨端统一SDK及统一工具类的设计开发封装，统一规范提升开发效率
+                  </p>
+                  <p class="descValue">
+                    5、参与两届顺丰科技集团举办的编程马拉松比赛并都获得了较好的成绩
+                  </p>
+                  <p class="descValue">
+                    6、作为团队核心成员，担任过前端招聘面试官，参与部门内部技术分享
                   </p>
                 </div>
               </div>
@@ -155,14 +161,14 @@
                 <div class="descLabel">工作描述：</div>
                 <div class="itemValue">
                   <p class="descValue">
-                    1、作为前端核心成员，主要负责项目的基础建设、框架搭建、核心功能开发、部署上线等工作，勇于承担重、难点的技术攻克
+                    1、参与团队产品核心模块的研发，开发涉及PC管理系统、大屏数据可视化、小程序，以及历史项目的优化升级
                   </p>
                   <p class="descValue">
-                    2、作为开发组长，主要负责参与需求评审，制定开发计划，合理排期推进项目，code
-                    review，确保项目按时高质量完成交付
+                    2、担任小组长，负责参与需求评审，制定开发计划，合理排期推进项目，code
+                    review，确保项目按时按质完成交付
                   </p>
                   <p class="descValue">
-                    3、参与团队产品核心模块的研发，开发主要涉及pc管理后台、大屏数据可视化、小程序、H5应用，以及历史项目的优化升级
+                    3、作为核心成员，负责项目的基础建设、框架搭建、核心功能开发、部署上线等工作，承担重、难点的技术攻克
                   </p>
                 </div>
               </div>
@@ -181,14 +187,14 @@
                 <div class="descLabel">工作描述：</div>
                 <div class="itemValue">
                   <p class="descValue">
-                    1、负责公司核心产品的定制化开发，前端涉及ui更新，浏览器兼容，响应式，性能优化，使用java
-                    web技术栈（前后端不分离）
+                    1、负责公司系统的定制化开发，前端涉及ui更新，浏览器兼容，响应式，性能优化，使用java
+                    web技术栈
                   </p>
                   <p class="descValue">
-                    2、负责前端页面(jsp)的重构，采用新的ui框架，以及新的前端技术来进行重构，专注于提升界面的用户体验
+                    2、负责前端页面(jsp)的重构，采用新的ui框架，以及新的前端技术栈进行重构，专注于提升界面的用户体验
                   </p>
                   <p class="descValue">
-                    3、根据不同项目做针对性的定制开发，前后参与了广发银行、东莞农商银行、中科金证、深圳市公立医院管理中心、华侨城等项目
+                    3、根据不同项目做针对性的定制开发，前后参与了广发银行、东莞农商银行、金证、深圳公立医院、华侨城等项目
                   </p>
                 </div>
               </div>
@@ -213,20 +219,23 @@
               <div class="descItem">
                 <div class="descLabel">项目简介：</div>
                 <div class="itemValue">
-                  公安网校大数据分析平台是公安部门线下、线上课程培训的大数据分析平台，主要对不同年份的课程培训情况做统计分析，线上课程需要实时更新直播状态等数据，线下主要是对各种培训指标做统计展示
+                  该项目是顺丰速运内部的用户运营活动部分，属于移动端跨端项目，目前会员数量超2亿，日活在千万级别。我们的业务主要和散单用户运营相关，目的是从公域流量转化为私域流量，提升用户粘度，促进成交转化
                 </div>
               </div>
               <div class="descItem">
                 <div class="descLabel">工作职责：</div>
                 <div class="itemValue">
                   <p class="descValue">
-                    1、负责项目的需求分析、技术选型、框架搭建、开发实现、部署上线、调优升级等工作
+                    1、参与项目需求评审，工时排期，根据UI进行页面开发，进行codereview，按时保质完成交付
                   </p>
                   <p class="descValue">
-                    2、负责整个项目的跟进，熟练掌握开发到上线的全流程，开发过程中融入新技术，掌握新的开发方式
+                    2、业务之外专注项目的优化工作，挖掘项目中的问题，然后排期优化，旨在提升页面性能和用户体验
                   </p>
                   <p class="descValue">
-                    3、项目属于大屏可视化，应用相关数据可视化及响应式布局技术，通过动效交互，提升用户体验
+                    3、项目涉及动画以及活动组件，开发过程提取公共活动组件进行公共封装
+                  </p>
+                  <p class="descValue">
+                    4、除了日常的业务需求开发，还参与了前端专项，如性能优化、前端监控、服务端渲染、微前端等
                   </p>
                 </div>
               </div>
@@ -234,7 +243,7 @@
                 <span class="itemLabel">相关技术：</span>
                 <span class="itemValue">
                   react
-                  hook、react-router、axios、antv、Ts、ant-design、webpack、less
+                  hook、react-router、axios、lottie、Ts、ant-design、webpack、less
                 </span>
               </p>
             </div>
@@ -341,7 +350,7 @@
               <p class="teachItem">
                 <span class="itemLabel">相关技术：</span>
                 <span class="itemValue">
-                  java、jsp、layerui、js、ajax、jquery、vue、webpack、es6、jwt、elementui、gulp、flyjs、easy_mock
+                  java、jsp、layerui、js、ajax、jquery、html、css、vue、jwt、elementui、gulp、flyjs、easy_mock
                 </span>
               </p>
             </div>
@@ -362,7 +371,9 @@
               <p class="teachItem">
                 3、平时关注前端前沿技术，具备良好的学习能力，能够快速学习一门新技术并实践，做事重视细节和结果，愿意接受新挑战
               </p>
-              <p class="teachItem">4、写过公众号，贡献过npm包</p>
+              <p class="teachItem">
+                4、写过公众号，开发过npm包，喜欢尝试新技术栈
+              </p>
             </div>
           </div>
         </div>
